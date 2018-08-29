@@ -36,10 +36,8 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>org.red5</groupId>
-			<artifactId>red5-server</artifactId>
-			<version>1.0.9-RELEASE</version>
-			<type>jar</type>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-thymeleaf</artifactId>
 		</dependency>
 	</dependencies>
 
